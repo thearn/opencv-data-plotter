@@ -9,5 +9,5 @@ setup(name='opencv-data-plotter',
     author_email='tristanhearn@gmail.com',
     url='https://github.com/thearn/opencv-data-plotter',
     license='Apache 2.0',
-    packages=['src'],
+    packages=['cv2plot'],
 )
