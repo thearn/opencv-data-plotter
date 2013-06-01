@@ -1,9 +1,8 @@
-
 from setuptools import setup, find_packages
 
 setup(name='opencv-data-plotter',
     version='0.1',
-    install_requires=[],
+    install_requires=['cv2'],
     description="A python code for fast, real-time 2d data plotting for codes that already have opencv as a dependency. ",
     author='Tristan Hearn',
     author_email='tristanhearn@gmail.com',
